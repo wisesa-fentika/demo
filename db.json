@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "books": [
+        {
+            "id": 1,
+            "title": "Fantastic Beasts and Where to Find Them",
+            "image": "https://cdn.gramedia.com/uploads/items/9786020619972_Hewan-Hewan-Fantastis-dan-Dimana-Mereka-Bisa-Ditemukan---Skenario-Asli-Fantastic-Beasts-and-Where-to-Find-Them-Original-Screenplay__w600_hauto.jpg",
+            "author": "J. K. Rowling",
+            "year": "2001",
+            "stock": 1,
+            "category": "Science Fiction",
+            "rating": "5",
+            "summary": "Fantastic Beasts purports to be a reproduction of a textbook owned by Harry Potter and written by magizoologist Newt Scamander, a character in the fictional Harry Potter series. In the series, magizoology is the study of magical creatures."
+        },
+        {
+            "id": 2,
+            "title": "The Art of Computer Programming Vol.1",
+            "image": "https://m.media-amazon.com/images/I/81eZ5mt0TGL.jpg",
+            "author": "Donald E. Knuth",
+            "year": "1968",
+            "stock": 2,
+            "category": "Computer Science",
+            "rating": "4",
+            "summary": "The bible of all fundamental algorithms and the work that taught many of today's software developers most of what they know about computer programming. -Byte, September 1995 I can't begin to tell you how many pleasurable hours of study and recreation they have afforded me! I have pored over them in cars, restaurants, at work, at home"
+        },
+        {
+            "id": 3,
+            "title": "The Last Green Valley: A Novel",
+            "image": "https://m.media-amazon.com/images/I/515JAUAkOPL.jpg",
+            "author": "Mark Sullivan",
+            "year": "2021",
+            "stock": 5,
+            "category": "Novel",
+            "rating": "3",
+            "summary": "The Martels are one of many families of German heritage whose ancestors have farmed in Ukraine for more than a century. But after already living under Stalin’s horrifying regime, Emil and Adeline decide they must run in retreat from their land with the wolves they despise to escape the Soviets and go in search of freedom."
+        },
+        {
+            "id": 4,
+            "title": "Leadership: Theory and Practice 9th Ed.",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41w6ksF8CfS._SX331_BO1,204,203,200_.jpg",
+            "author": "Peter G. Northouse ",
+            "year": "2015",
+            "stock": 1,
+            "category": "Management",
+            "rating": "4",
+            "summary": "The market-leading Leadership: Theory and Practice presents an academically robust account of the major theories and models of leadership with a focus on how theory can inform practice. Author Peter G. Northouse uses a consistent structure for each chapter that allows readers to easily compare and contrast different theories. Case studies and questionnaires provide students with practical examples and opportunities to deepen their understanding of their own leadership style."
+        }
+    ]
 }
+  
