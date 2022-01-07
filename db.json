@@ -44,6 +44,20 @@
             "rating": "4",
             "summary": "The market-leading Leadership: Theory and Practice presents an academically robust account of the major theories and models of leadership with a focus on how theory can inform practice. Author Peter G. Northouse uses a consistent structure for each chapter that allows readers to easily compare and contrast different theories. Case studies and questionnaires provide students with practical examples and opportunities to deepen their understanding of their own leadership style."
         }
+    ],
+    "loans": [
+        {
+            "id": 1,
+            "title": "Leadership: Theory and Practice 9th Ed.",
+            "loanDate": "05-01-2022",
+            "returnDate": "10-01-2022"
+        },
+        {
+            "id": 2,
+            "title": "The Art of Computer Programming Vol.1",
+            "loanDate": "05-01-2022",
+            "returnDate": "10-01-2022"
+        }
     ]
 }
   
